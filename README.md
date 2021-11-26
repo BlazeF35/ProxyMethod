@@ -14,7 +14,7 @@ nível de como um problema comum pode ser solucionado.
 O primeiro intitulado ProxyMethod tem duas pastas, a classe a ser executada esta inserida na pasta "main". Após selecionar a classe "Main", com a sua IDE de escolha execute o programa
 no modo Java Application.
 
-O segundo projeto "SemProxyMethod" é bem mais simples e sem o uso do padrão Proxy, basta selecionar a única pasta existente dentro do projeto, e executar o programa no modo Java
+O segundo projeto "SemProxyMethod" é bem mais simples e sem o uso do padrão Proxy, basta selecionar a única pasta existente dentro do projeto e executar o programa no modo Java
 Application.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
