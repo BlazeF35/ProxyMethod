@@ -3,7 +3,7 @@ package main;
 import proxyMethod.Desenhos;
 import proxyMethod.ImagemProxy;
 
-public class Main {
+public class StartApp {
 	
 	public static void main(String[] args) {
 		

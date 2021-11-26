@@ -2,7 +2,8 @@ package proxyMethod;
 
 public class Imagem implements Desenhos {
 
-private String imagem = "MIRANHA";
+@SuppressWarnings("unused")
+private String imagem;
 	
 	public Imagem(String imagem) {
 		this.imagem = imagem;
